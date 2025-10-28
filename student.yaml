@@ -1,0 +1,43 @@
+- name: "Lavanya kotha"
+  dob: "01-01-2000"
+  age: 21
+  addresses:
+    # object
+  - doorno: 4-20
+    street: "gandhi nagar"
+    city: huderabd
+    pin: 23654
+    type: current
+    
+  - doorno: 4-20
+    street: "gandhi nagar"
+    city: huderabd
+    pin: 23654
+    type: perm
+
+  skills:
+  - java
+  - devops
+  - cloud
+
+- name: "rakesh"
+  dob: "01-01-2000"
+  age: 21
+  addresses:
+    # object
+  - doorno: 4-20
+    street: "gandhi nagar"
+    city: huderabd
+    pin: 23654
+    type: current
+    
+  - doorno: 4-20
+    street: "gandhi nagar"
+    city: huderabd
+    pin: 23654
+    type: perm
+
+  skills:
+  - java
+  - devops
+  - cloud

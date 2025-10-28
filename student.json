@@ -1,0 +1,23 @@
+{
+    "name": "Lavanya kotha",
+    "dob": "01-01-2000",
+    "address": [
+         {
+             "type": "currect",
+             "doorno": "3-35",
+             "street": "gandhi nagar",
+             "city": "hyd",
+             "pin":500036
+         },
+          {
+             "type": "perm",
+             "doorno": "3-36",
+             "street": "gandhi nagar",
+             "city": "hyd",
+             "pin":500036
+         }
+
+    ],
+    "skills": ["java", "devops", "cloud"]
+
+}

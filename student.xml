@@ -1,0 +1,58 @@
+<!-- list of student objects -->
+
+<students>
+  <!-- object -->
+   <student>
+      <name>Lavanya kotha</name>
+      <dob>01-01-2000</dob>
+      <age>21</age>
+
+       <!-- list of objects -->
+      <addressess>
+          <!-- object -->
+         <address type="PERM">
+            <doorno>4-26</doorno>
+            <street>gandhi nager</street>
+            <pin>5678</pin>
+            </address>
+         <address type="current">
+            <doorno>4-28</doorno>
+            <street>gandhi nager</street>
+            <pin>5678</pin>
+            </address>
+      </addressess>
+
+      <skills>
+         <skill>Java</skill>
+         <skill>DevOps</skill>
+         <skill>Cloud</skill>
+      </skills>
+</student>
+
+
+   <student>
+      <name>rakesh</name>
+      <dob>01-01-2000</dob>
+      <age>21</age>
+
+      <addressess>
+         <address type="PERM">
+            <doorno>4-26</doorno>
+            <street>gandhi nager</street>
+            <pin>5678</pin>
+            </address>
+         <address type="current">
+            <doorno>4-28</doorno>
+            <street>gandhi nager</street>
+            <pin>5678</pin>
+            </address>
+      </addressess>
+
+      <skills>
+         <skill>Java</skill>
+         <skill>DevOps</skill>
+         <skill>Cloud</skill>
+      </skills>
+   </student>
+</students>
+
