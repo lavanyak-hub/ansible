@@ -8,12 +8,14 @@
     tags:
       Application: payment
       Environment: dev
+
+
       # List
     listTags:
     - key: Application
       value: payment
     - key: Environment
-  value: dev
+      value: dev
 
   tasks:
   - name: default variable
